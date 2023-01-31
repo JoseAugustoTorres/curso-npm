@@ -7,3 +7,8 @@ Comando para criar dependencias específicas para dev: <br />
 -npm install react --save-dev <br />
 <br />
 Adicionar node_modules ao .gitignore.
+<br />
+Rodar scripts: <br />
+npm run test <br />
+npm run dev <br />
+npm run start <br />
