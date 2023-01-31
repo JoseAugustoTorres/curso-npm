@@ -9,6 +9,7 @@ Comando para criar dependencias específicas para dev: <br />
 Adicionar node_modules ao .gitignore.
 <br />
 Rodar scripts: <br />
-npm run test <br />
-npm run dev <br />
-npm run start <br />
+<br />
+-npm run test <br />
+-npm run dev <br />
+-npm run start <br />
