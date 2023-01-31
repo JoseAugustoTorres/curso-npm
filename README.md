@@ -6,7 +6,7 @@ Curso de NPM para aprender os comandos básicos para instalação/remoção de d
 Comando para criar dependencias específicas para dev: <br />
 -npm install react --save-dev <br />
 <br />
-Adicionar node_modules ao .gitignore.
+Adicionar node_modules ao .gitignore. <br />
 <br />
 Rodar scripts: <br />
 <br />
